@@ -16,14 +16,14 @@ export function Header() {
         <Button
           variant={'ghost'}
           size={'icon'}
-          className="hover:bg-neutral-500"
+          className="hover:bg-neutral-500 "
         >
           <Grip className="bg-transparent text-neutral-300" />
         </Button>
         <Button
           variant={'ghost'}
           size={'lg'}
-          className="px-2 text-neutral-300 hover:bg-neutral-500"
+          className="px-2 text-neutral-300 hover:bg-neutral-500 hover:text-neutral-100"
         >
           Freello
         </Button>
